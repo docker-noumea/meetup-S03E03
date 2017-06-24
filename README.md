@@ -4,6 +4,8 @@ http://docker-noumea.github.io/meetup-S03E03
 
 Auteur: Sylvie Fiat
 
+Accès à la vidéo Youtube : https://www.youtube.com/watch?v=so1dxiuqzw0
+
 #### Crédit :
 Réalisée avec le framework de présentation [impress.js](https://github.com/impress/impress.js)
 
