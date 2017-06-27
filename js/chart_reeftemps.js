@@ -247,7 +247,6 @@ var options = {
     },
 
     yAxis: [{
-        min: 0,
         max: 15000000,
         labels: {
             style: {
